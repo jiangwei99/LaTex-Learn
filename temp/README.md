@@ -15,7 +15,11 @@
 \end{figure}
 ```
 
+<<<<<<< HEAD:temp/README.md
 效果：![Federated_Learning](fig/Federated_Learning.png)
+=======
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Federated%20Learning.png)
+>>>>>>> b57f6ddf8937af1d87aea8dcaba83dfbcd7e2cdf:README.md
 
 
 
@@ -43,7 +47,11 @@
  	\end{figure}  
 ```
 
+<<<<<<< HEAD:temp/README.md
 效果：![Illustration](fig/Illustration.png)
+=======
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Illustration%20.png)
+>>>>>>> b57f6ddf8937af1d87aea8dcaba83dfbcd7e2cdf:README.md
 
 #### 2.2三个图并排
 
@@ -63,7 +71,11 @@
   \end{figure*}
 ```
 
+<<<<<<< HEAD:temp/README.md
 效果：![The_placements_of_highlighted_entries_in_SBMM](fig/The_placements_of_highlighted_entries_in_SBMM.png)
+=======
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/The placements of highlighted entries in SBMM..png)
+>>>>>>> b57f6ddf8937af1d87aea8dcaba83dfbcd7e2cdf:README.md
 
 #### 2.3五个图并排
 
@@ -84,7 +96,11 @@
   \end{figure*}
 ```
 
+<<<<<<< HEAD:temp/README.md
 效果：![Examples_of_the_placement_of_highlighted_entries](fig/Examples_of_the_placement_of_highlighted_entries.png)
+=======
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/The%20Optimal%20Values%20of%20%24%20Q%20%24%20with%20a%20Given%20Placement%20of%20Highlighted%20Entries..png)
+>>>>>>> b57f6ddf8937af1d87aea8dcaba83dfbcd7e2cdf:README.md
 
 ## 二、表的插入
 
@@ -130,7 +146,11 @@
 \end{algorithm}
 ```
 
+<<<<<<< HEAD:temp/README.md
 效果：![The_Optimal_Values_of_$_Q_$_with_a_Given_Placement_of_Highlighted_Entries](fig/The_Optimal_Values_of_$_Q_$_with_a_Given_Placement_of_Highlighted_Entries.png)
+=======
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/The Optimal Values of $ Q $ with a Given Placement of Highlighted Entries..png)
+>>>>>>> b57f6ddf8937af1d87aea8dcaba83dfbcd7e2cdf:README.md
 
 ## 四、参考文献系列
 
@@ -142,9 +162,9 @@
 
 效果如图
 
-![](\fig\reference1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/reference1.png)
 
-![](\fig\reference1.1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/reference1.1.png)
 
 
 
@@ -152,7 +172,7 @@
 
 ### 1.参考文献中出现横线
 
-![](\fig\q&a\question1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/q&a\question1.png)
 
 原因：这是因为相邻两篇文献的作者相同，在IEEE模板下会出现横线。
 
@@ -170,5 +190,5 @@ FUNCTION {default.is.dash.repeated.names} { #1 }
 
 重新编译，解决问题
 
-![](\fig\q&a\answer1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/q&a\answer1.png)
 
