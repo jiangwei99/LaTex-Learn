@@ -15,7 +15,7 @@
 \end{figure}
 ```
 
-效果：![](\fig\Federated Learning.png)
+效果：![](.\fig\Federated Learning.png)
 
 
 
