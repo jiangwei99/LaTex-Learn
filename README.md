@@ -63,7 +63,7 @@
   \end{figure*}
 ```
 
-效果：![](\fig\The placements of highlighted entries in SBMM..png)
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/The placements of highlighted entries in SBMM..png)
 
 #### 2.3五个图并排
 
