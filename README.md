@@ -84,7 +84,7 @@
   \end{figure*}
 ```
 
-效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Examples of the placement of highlighted entries.png)
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/The%20Optimal%20Values%20of%20%24%20Q%20%24%20with%20a%20Given%20Placement%20of%20Highlighted%20Entries..png)
 
 ## 二、表的插入
 
