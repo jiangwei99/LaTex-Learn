@@ -84,7 +84,7 @@
   \end{figure*}
 ```
 
-效果：![](\fig\Examples of the placement of highlighted entries.png)
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Examples of the placement of highlighted entries.png)
 
 ## 二、表的插入
 
@@ -130,7 +130,7 @@
 \end{algorithm}
 ```
 
-效果：![](\fig\The Optimal Values of $ Q $ with a Given Placement of Highlighted Entries..png)
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/The Optimal Values of $ Q $ with a Given Placement of Highlighted Entries..png)
 
 ## 四、参考文献系列
 
@@ -142,9 +142,9 @@
 
 效果如图
 
-![](\fig\reference1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/reference1.png)
 
-![](\fig\reference1.1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/reference1.1.png)
 
 
 
@@ -152,7 +152,7 @@
 
 ### 1.参考文献中出现横线
 
-![](\fig\q&a\question1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/q&a\question1.png)
 
 原因：这是因为相邻两篇文献的作者相同，在IEEE模板下会出现横线。
 
@@ -170,5 +170,5 @@ FUNCTION {default.is.dash.repeated.names} { #1 }
 
 重新编译，解决问题
 
-![](\fig\q&a\answer1.png)
+![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/q&a\answer1.png)
 
