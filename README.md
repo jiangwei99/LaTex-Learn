@@ -15,7 +15,7 @@
 \end{figure}
 ```
 
-效果：![](\fig\Federated Learning.png)
+效果：![Federated_Learning](fig/Federated_Learning.png)
 
 
 
@@ -43,7 +43,7 @@
  	\end{figure}  
 ```
 
-效果：![](.\fig\Illustration .png)
+效果：![Illustration](fig/Illustration.png)
 
 #### 2.2三个图并排
 
@@ -63,7 +63,7 @@
   \end{figure*}
 ```
 
-效果：![](\fig\The placements of highlighted entries in SBMM..png)
+效果：![The_placements_of_highlighted_entries_in_SBMM](fig/The_placements_of_highlighted_entries_in_SBMM.png)
 
 #### 2.3五个图并排
 
@@ -84,7 +84,7 @@
   \end{figure*}
 ```
 
-效果：![](\fig\Examples of the placement of highlighted entries.png)
+效果：![Examples_of_the_placement_of_highlighted_entries](fig/Examples_of_the_placement_of_highlighted_entries.png)
 
 ## 二、表的插入
 
@@ -130,7 +130,7 @@
 \end{algorithm}
 ```
 
-效果：![](\fig\The Optimal Values of $ Q $ with a Given Placement of Highlighted Entries..png)
+效果：![The_Optimal_Values_of_$_Q_$_with_a_Given_Placement_of_Highlighted_Entries](fig/The_Optimal_Values_of_$_Q_$_with_a_Given_Placement_of_Highlighted_Entries.png)
 
 ## 四、参考文献系列
 
