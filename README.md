@@ -15,7 +15,7 @@
 \end{figure}
 ```
 
-效果：![](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Federated Learning.png)
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Federated Learning .png)
 
 
 
