@@ -1,8 +1,6 @@
 [toc]
 
-链接：
-
-[PDF链接]: https://jiangwei99.github.io/LaTex_Blog/README.pdf
+链接：https://jiangwei99.github.io/LaTex_Blog/README.pdf 
 
 
 
