@@ -43,7 +43,7 @@
  	\end{figure}  
 ```
 
-效果：(https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Illustration%20.png)
+效果：![image](https://github.com/jiangwei99/LaTex_Blog/blob/main/fig/Illustration%20.png)
 
 #### 2.2三个图并排
 
