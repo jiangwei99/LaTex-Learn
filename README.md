@@ -1,5 +1,5 @@
 [toc]
-
+PDF链接：https://jiangwei99.github.io/LaTex_Blog/README.pdf
 # LaTex Blog
 
 ## 一、图的插入
