@@ -63,7 +63,15 @@ pdflatex -v
 
 
 
-# TeXstudio安装
+# TeXstudio安装步骤
+
+## 下载链接
+
+官网：https://www.texstudio.org/
+
+![image-20220203015842248](fig/image-20220203015842248.png)
+
+
 
 ![image-20220113002524740](fig/image-20220113002524740.png)
 
