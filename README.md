@@ -17,7 +17,7 @@
 \end{figure}
 ```
 
-效果：![](\fig\Federated Learning.png)
+效果：![Federated Learning](fig/Federated Learning.png)
 
 
 
@@ -45,7 +45,7 @@
  	\end{figure}  
 ```
 
-效果：![](.\fig\Illustration .png)
+效果：![](fig/Illustration .png)
 
 #### 2.2三个图并排
 
@@ -65,7 +65,7 @@
   \end{figure*}
 ```
 
-效果：![](\fig\The placements of highlighted entries in SBMM..png)
+效果：![](fig/The placements of highlighted entries in SBMM..png)
 
 #### 2.3五个图并排
 
@@ -86,7 +86,7 @@
   \end{figure*}
 ```
 
-效果：![](\fig\Examples of the placement of highlighted entries.png)
+效果：![](fig/Examples of the placement of highlighted entries.png)
 
 ## 二、表的插入
 
@@ -144,7 +144,7 @@ $\mathcal N$		`$\mathcal N$`
 \end{algorithm}
 ```
 
-效果：![](\fig\The Optimal Values of $ Q $ with a Given Placement of Highlighted Entries..png)
+效果：![](fig\The Optimal Values of $ Q $ with a Given Placement of Highlighted Entries..png)
 
 ## 五、参考文献系列
 
@@ -156,9 +156,9 @@ $\mathcal N$		`$\mathcal N$`
 
 效果如图
 
-![](\fig\reference1.png)
+![](fig\reference1.png)
 
-![](\fig\reference1.1.png)
+![](fig\reference1.1.png)
 
 
 
@@ -182,7 +182,7 @@ $\mathcal N$		`$\mathcal N$`
 
 ### 1.参考文献中人名出现横线
 
-![](\fig\q&a\question1.png)
+![](fig\q&a\question1.png)
 
 原因：这是因为相邻两篇文献的作者相同，在IEEE模板下会出现横线。
 
@@ -200,5 +200,5 @@ FUNCTION {default.is.dash.repeated.names} { #1 }
 
 重新编译，解决问题
 
-![](\fig\q&a\answer1.png)
+![](fig\q&a\answer1.png)
 
