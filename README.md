@@ -402,9 +402,9 @@ abc
 
 效果：
 
-![image-20220525201858967](fig/LaTex Blog/image-20220525201858967.png)
+![](fig/LaTex Blog/image-20220525201858967.png)
 
-![image-20220525201948440](fig/LaTex Blog/image-20220525201948440.png)
+![](fig/LaTex Blog/image-20220525201948440.png)
 
 ### 2.文字变红
 
